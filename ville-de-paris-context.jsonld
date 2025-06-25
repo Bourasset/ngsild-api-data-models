@@ -117,6 +117,7 @@
 	    "classe": "nafr2:classe",
 	    "sousClasse": "nafr2:sousClasse",
 	"Commerce": "https://semantics.cerema.fr/ontologies/commerce#Commerce",
+	    "niv224": "niveauReference:niv224",
         "GroupeScolaire": "https://semantics.cerema.fr/ontologies/scolarite#GroupeScolaire",
         "AccueilLoisirs": "https://semantics.cerema.fr/ontologies/scolarite#AccueilLoisirs",
         "RestaurantScolaire": "https://semantics.cerema.fr/ontologies/scolarite#RestaurantScolaire",
